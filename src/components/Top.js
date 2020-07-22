@@ -8,7 +8,7 @@ import {
     NavLink,
     Collapse,
   } from "shards-react";
-  import { BrowserRouter as Router,Route,Link} from 'react-router-dom';
+  import {Route,Link} from 'react-router-dom';
 
 export default function Top() {
 
